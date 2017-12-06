@@ -1,0 +1,12 @@
+/**/bin
+/**/build
+/**/.settings
+/**/.project
+/**/.classpath
+/**/*.iml
+/**/.idea
+/**/src/main/resources/static
+/**/.gradle
+/**/__MACOSX
+/**/.DS_Store
+/**/logs
